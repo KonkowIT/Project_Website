@@ -1,0 +1,36 @@
+body {
+    position: relative;
+}
+nav {
+    font-family: 'Raleway', sans-serif;
+}
+.nav-item {
+    margin: 0px 2.5rem;
+}
+.navbar-brand {
+    font-family: 'Josefin Slab', serif;
+    font-size: 2rem;
+}
+.nav-link {
+    font-size: 1.25rem;
+}
+#contact_button {
+    right: 3rem;
+    align-self: center;
+}
+h3 {
+    margin: 2rem 0rem 1rem 0rem;
+}
+img {
+    margin: 1rem 0rem 1rem 0rem ;
+}
+a.nav-link {
+    color: white;
+}
+.card {
+    margin: 1rem 2.5rem 1rem 0rem;
+    display: inline-block;
+}
+.container {
+    display: inline-block;
+}
